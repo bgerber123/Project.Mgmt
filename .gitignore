@@ -5,3 +5,5 @@
 .Ruserdata
 
 
+# Tell GitHub to ignore the testing folder
+tests/*
