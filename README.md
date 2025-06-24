@@ -2,7 +2,7 @@
 
 ### A template to use in R project management and version control with GitHub.
 
-## Author
+## Authors and Contact
 
 This repository and code were authored by XXXX (affiliation; email).
 
