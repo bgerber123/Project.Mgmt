@@ -14,13 +14,24 @@
 # Clear Environment
   rm(list=ls())
 
+# Libraries
+  library(stocc)
+
 # Load Data
   load("./outputs/data.for.modeling")
 
 ###########################  
-# Model Fitting  
+# Model Fitting  - note that this does not run
   
-# fit = ......  
+ fit = spatial.occupancy(
+                         detection.model,
+                         occupancy.model,
+                         spatial.model,
+                         so.data,
+                         prior,
+                         control,
+                         initial.values = NULL
+                        )
   
 #########################
 # Save Model Output
