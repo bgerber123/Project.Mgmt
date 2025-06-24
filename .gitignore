@@ -1,0 +1,7 @@
+# Tell GitHub to ignore pushing certain file extensions
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
