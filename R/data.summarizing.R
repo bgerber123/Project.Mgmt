@@ -23,4 +23,9 @@
   table(dat$Surveyed2017,
         dat$Surveyed2022
         )
+
+# Calculate qunatiles of fire covariate
+  quantile(dat$propFire20_2022,
+           probs = c(0.025,0.5,0.975)
+           )
   
