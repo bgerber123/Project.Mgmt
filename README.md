@@ -1,6 +1,6 @@
 # A repository for:
 
-### A spatial occupancy analysis of Wolverines (*Gulo gulo*) from survey data in 2022.
+### A template to use in R project management and version control with GitHub.
 
 ## Author
 
@@ -16,17 +16,17 @@ Data inputs were curated by XXXX (affiliation; email).
 2. [The working directory](#the-working-directory)
 3. [Workflows in this repository](#workflows-in-this-repository)
 	1. [Summary of workflows](#Summary-of-workflows)
-	3. [Wolverine 2022 Spatial Occupancy Workflow](#Wolverine-2022-Spatial-Occupancy-Workflow)
+	3. [Spatial Occupancy Workflow ](#Spatial-Occupancy-Workflow)
 	5. [RMarkdown](#Rmarkdown)
 
 
 ## What's in this repository?
 
-This repository stores Wolverine detection / non-detection data and code to fit a spatial occupancy model. 
+This repository stores species detection / non-detection data and code to fit a spatial occupancy model. 
 
 The original data products came from XXXXXX. Contact XXXXX or find them online at XXXXX. 
 
-The purpose of this analysis is to predict wolverine occupancy in Colorado. 
+The purpose of this analysis is to predict species occupancy in Colorado. 
 
 Ultimately, this document provides information of the files present in this repository and serves as a road map that describes the workflows for recreating the analyses. 
 
@@ -68,9 +68,9 @@ Add overview text
 
 [Back to table of contents ⤒](#a-repository-for)
 
-### Wolverine 2022 Spatial Occupancy Workflow
+### Spatial Occupancy Workflow 
 
-1) The file `data.processing.R` brings in the data for checking; an R object file (`data.for.modeling`) is output and used in other scripts; an .RData file is also archived (`wolv2017.spatial.data`).
+1) The file `data.processing.R` brings in the data for checking; an R object file (`data.for.modeling`) is output and used in sunsequent scripts; the entire environment is archived in file `data.processing.RData`.
 2) The file `data.summarizing.R` explores the data. 
 3) The file `plot.data.R` makes plots of the data.
 4) Model fitting is done via file `fit.sp.occ.model.R`; the outputted model object is `fit.spatial.occ.2022`.

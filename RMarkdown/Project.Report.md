@@ -25,7 +25,7 @@ output:
 
 ## **Context**
 
-Using survey data from 2022,  I fit a spatial occupancy model to predict wolverine occurence
+Using survey data from 2022,  I fit a spatial occupancy model to predict occurence
 
 
 
