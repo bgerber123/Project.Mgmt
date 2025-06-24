@@ -12,12 +12,13 @@ Data inputs were curated by XXXX (affiliation; email).
 
 ## Links to different parts of the readme file
 
-1. [What's in this repository?](#whats-in-this-repository)
+1. [What's in this repository?](#what's-in-this-repository)
 2. [The working directory](#the-working-directory)
-3. [Workflows in this repository](#workflows-in-this-repository)
-	1. [Summary of workflows](#Summary-of-workflows)
-	3. [Spatial Occupancy Workflow ](#Spatial-Occupancy-Workflow)
+3. [Workflows in this repository](#workflow-in-this-repository)
+	1. [Summary of workflows](#summary)
+	3. [Spatial Occupancy Workflow ](#spatial-occupancy-workflow)
 	5. [RMarkdown](#Rmarkdown)
+4. [Notes](#notes)
 
 
 ## What's in this repository?
