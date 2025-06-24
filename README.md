@@ -55,16 +55,18 @@ Overall, this repository contains 8 subfolders:
 
 [Back to table of contents ⤒](#a-repository-for)
 
-
-## Workflows in this repository
-
 ---
 
-There is a single analysis in this repository and thus one workflow.
+## Workflow in this repository
 
-### Summary of workflows
 
-Add overview text
+
+
+### Summary 
+
+There is a single analysis in this repository and thus one workflow. Generally, data are processed, summarized, and then a model is fit. Model results
+are then summarized and plots are made.
+
 
 [Back to table of contents ⤒](#a-repository-for)
 
@@ -83,5 +85,25 @@ Add overview text
 The RMarkdown files are separate from the above workflow. Files located in the `RMarkdown` subfolder use plots and R objects created by the other workflows.
 These files only compile results for sharing and do not do any new processing or model fitting. 
 
+
+[Back to table of contents ⤒](#a-repository-for)
+
+---
+
+## Notes
+
+### To do
+
+- Update variables
+- Extract new covariates related to human disturbance
+
+### Major Changes
+
+- *June 2025:* Evaluated threshold parameter in occupancy model
+- *May 2025:* Updated the modeling to include a new covariate
+
+### Reminder
+
+- *May 2025:* Shared results with colleagues
 
 [Back to table of contents ⤒](#a-repository-for)

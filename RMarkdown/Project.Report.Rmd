@@ -9,6 +9,7 @@ output:
     keep_md: yes
 ---
 
+
 <style type="text/css">
 .main-container {
   max-width: 1800px;
@@ -16,6 +17,7 @@ output:
   margin-right: auto;
 }
 </style>
+
 
 <style type="text/css">
   body{
@@ -25,7 +27,7 @@ output:
 
 ## **Context**
 
-Using survey data from 2022,  I fit a spatial occupancy model to predict occurence
+Using survey data from 2022,  I fit a spatial occupancy model to predict occurrence
 
 ```{r setup, include=FALSE}
 # Set Environment and load objects

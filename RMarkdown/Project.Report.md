@@ -9,6 +9,7 @@ output:
     keep_md: yes
 ---
 
+
 <style type="text/css">
 .main-container {
   max-width: 1800px;
@@ -16,6 +17,7 @@ output:
   margin-right: auto;
 }
 </style>
+
 
 <style type="text/css">
   body{
