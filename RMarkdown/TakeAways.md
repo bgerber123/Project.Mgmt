@@ -8,20 +8,6 @@ output:
 ---
 
 
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-
-<style type="text/css">
-  body{
-  font-size: 14pt;
-}
-</style>
 
 ## **Big Picture**
 
