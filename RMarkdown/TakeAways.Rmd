@@ -39,16 +39,16 @@ Do not assume you will implement file management practices and documentation **l
 
 2. folders are a single name.
 
-3. R script file names begin with their theme, `data`, `plot`, `fit`. Additional names are followed by a `.` and contain more information.
+3. R script file names begin with their theme, `data`, `plot`, `fit`. Additional naming after the theme is  followed by a `.` and additional description.
 
-4. R scripts have intentional indenting.
+4. R scripts have intentional indenting; choose your own style, but **please indent**!
 
-5. R scripts have hashtags to separate code chunks.
+5. R scripts have hashtags to separate code chunks and to provide annotation.
 
-6. R scripts begin with a goal statement that defines the script; **do not deviate**. If you deviate from the goal, make a new file.
+6. R scripts begin with a goal statement that defines the script; **do not deviate** from this goal. If you deviate, make a new file.
 
-7. There is an R project file; you only ever need to open this file, if using RStudio.
+7. There is an R project file; you only ever need to open this file if using RStudio.
 
-8. there is a `tests` folders which can serve as a dumping ground for experimentation. You may even want a tests folder in each of the subfolders, e.g., `\plots\tests`.
+8. there is a `tests` folder which can serve as a dumping ground for experimentation. You may even want a tests folder in each of the subfolders, e.g., `\plots\tests`.
 
-9. there is a well annotated README.md file (for GitHub). This should have your notes and document your workflow. Without this it is very hard for anyone else to understand how the files are connected even when using good file management practices. This could of course just be a txt file if not using GitHub.
+9. there is a README.md file (for GitHub) that describes the folder and files of the project folder. This file should have your notes and document your workflow. Without a description of the workflow it is very hard for anyone else to understand how the files are connected even when using good file management practices. This could of course just be a .txt file if not using GitHub.
