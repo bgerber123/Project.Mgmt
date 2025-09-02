@@ -1,4 +1,8 @@
-# A repository for: {#a-repository-for}
+---
+title: "A repository for:"
+---
+
+#  {#a-repository-for}
 
 ### A template to use in R project management and version control with GitHub.
 
@@ -84,7 +88,7 @@ The RMarkdown files are separate from the above workflow. Files located in the `
 
 ### To do
 
--   Update variables 
+-   Update variables
 -   Extract new covariates related to human disturbance
 
 ### Major Changes
