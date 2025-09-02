@@ -34,9 +34,9 @@ The purpose of this analysis is to predict species occupancy in Colorado.
 
 Ultimately, this document provides information of the files present in this repository and serves as a road map that describes the workflows for recreating the analyses.
 
-[Back to table of contents ⤒](#a-repository-for)
+[Back to table of contents ⤒]
 
-## The working directory {#the-working-directory}
+## The working directory
 
 ------------------------------------------------------------------------
 
@@ -59,15 +59,15 @@ Overall, this repository contains 8 subfolders:
 
 ------------------------------------------------------------------------
 
-## Workflow in this repository {#workflow-in-this-repository}
+## Workflow in this repository 
 
-### Summary {#summary}
+### Summary 
 
 There is a single analysis in this repository and thus one workflow. Generally, data are processed, summarized, and then a model is fit. Model results are then summarized and plots are made.
 
 [Back to table of contents ⤒](#a-repository-for)
 
-### Spatial Occupancy Workflow {#spatial-occupancy-workflow}
+### Spatial Occupancy Workflow 
 
 1)  The file `data.processing.R` brings in the data for checking; an R object file (`data.for.modeling`) is output and used in subsequent scripts; the entire environment is archived in file `data.processing.RData`.
 2)  The file `data.summarizing.R` explores the data.
