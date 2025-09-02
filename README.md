@@ -2,7 +2,7 @@
 title: ""
 ---
 
-#  A repository for:{#a-repository-for}
+#  A repository for:
 
 ### A template to use in R project management and version control with GitHub.
 
