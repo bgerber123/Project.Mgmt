@@ -76,7 +76,7 @@ There is a single analysis in this repository and thus one workflow. Generally, 
 5)  Model results are investigated and summarized in file `plot.results.sp.occ.model.R`.
 6)  Model results are plotted in file `plot.results.sp.occ.model.R`
 
-### RMarkdown {#rmarkdown}
+### RMarkdown 
 
 The RMarkdown files are separate from the above workflow. Files located in the `RMarkdown` subfolder use plots and R objects created by the other workflows. These files only compile results for sharing and do not do any new processing or model fitting.
 
@@ -84,7 +84,7 @@ The RMarkdown files are separate from the above workflow. Files located in the `
 
 ------------------------------------------------------------------------
 
-## Notes {#notes}
+## Notes 
 
 ### To do
 
