@@ -73,7 +73,7 @@ are then summarized and plots are made.
 
 ### Spatial Occupancy Workflow 
 
-1) The file `data.processing.R` brings in the data for checking; an R object file (`data.for.modeling`) is output and used in sunsequent scripts; the entire environment is archived in file `data.processing.RData`.
+1) The file `data.processing.R` brings in the data for checking; an R object file (`data.for.modeling`) is output and used in subsequent scripts; the entire environment is archived in file `data.processing.RData`.
 2) The file `data.summarizing.R` explores the data. 
 3) The file `plot.data.R` makes plots of the data.
 4) Model fitting is done via file `fit.sp.occ.model.R`; the outputted model object is `fit.spatial.occ.2022`.
